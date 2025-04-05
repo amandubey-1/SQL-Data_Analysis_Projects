@@ -37,7 +37,8 @@ CREATE TABLE retail_sales(
 	price_per_unit int,	
 	cogs float,	
 	total_sale float
-)```
+)
+```
 
 ```sql
 -- No of records in the table. 
